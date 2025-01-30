@@ -1,4 +1,4 @@
-### 박설빈 | Park Seolbin 👋
+## 박설빈 | Park Seolbin 👋
 
 도전을 두려워하지 않고 빠르게 움직이는 백엔드 개발자입니다.<br>
 
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Front-End**<br>
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-4574E0.svg?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a"/> <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
