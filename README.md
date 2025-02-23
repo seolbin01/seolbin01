@@ -1,6 +1,6 @@
 ## 박설빈 | Park Seolbin 👋
 
-<h4>Just Do It을 실천하는 백엔드 개발자입니다.<h4>
+<h3>Just Do It을 실천하는 백엔드 개발자입니다.<h3>
 
 **Contact**<br>
 <img src="https://img.shields.io/badge/seolbinpark01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
