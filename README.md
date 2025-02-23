@@ -1,6 +1,6 @@
 ## 박설빈 | Park Seolbin 👋
 
-도전을 두려워하지 않고 빠르게 움직이는 백엔드 개발자입니다.<br>
+<h4>Just Do It을 실천하는 백엔드 개발자입니다.<h4>
 
 **Contact**<br>
 <img src="https://img.shields.io/badge/seolbinpark01@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -9,14 +9,14 @@
 
 ## 🛠️ Tech Stack
 
-**Front-End**<br>
+**FrontEnd**<br>
 <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-4574E0.svg?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a"/> <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
 
-**Baek-End**<br>
+**BackEnd**<br>
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Security-20232a.svg?style=flat-square&logo=springsecurity&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white"/> 
 
 **Database**<br>
-<img src="https://img.shields.io/badge/MySql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
 
 **DevOps**<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
